@@ -1,0 +1,73 @@
+# Node.js / Express
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Log files
+logs/
+*.log
+
+# Build output
+/build
+/public
+/dist
+
+# Client-side dependencies
+/client/node_modules/
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis
+*.suo
+*.user
+*.sln
+*.sw?
+*.suo
+*.user
+*.sln
+.sass-cache/
+.sass-cache/
+.DS_Store
+Thumbs.db
+
+# Testing
+/coverage
+
+# Compiled binary addons
+/build/Release
+
+# Runtime data
+/db
+
+# Caches and local data
+.cypress/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# System files
+ehthumbs.db
+Icon
+Icon?
+ehthumbs.db
+
+# WebStorm
+.idea/
+.idea/
